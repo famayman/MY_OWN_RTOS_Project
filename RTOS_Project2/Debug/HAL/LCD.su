@@ -1,0 +1,8 @@
+../HAL/LCD.c:10:6:IS_LCD_Busy	8	static
+../HAL/LCD.c:50:6:LCD_Send_Pulse	8	static
+../HAL/LCD.c:58:6:LCD_Init	8	static
+../HAL/LCD.c:125:6:LCD_Send_Command	16	static
+../HAL/LCD.c:149:6:LCD_Send_A_Character	16	static
+../HAL/LCD.c:182:6:LCD_Send_A_String	24	static
+../HAL/LCD.c:200:6:LCD_Goto_XY	16	static
+../HAL/LCD.c:213:6:LCD_Clear_Screen	8	static

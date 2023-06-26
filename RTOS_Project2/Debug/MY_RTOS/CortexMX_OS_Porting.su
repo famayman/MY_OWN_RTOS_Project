@@ -1,0 +1,7 @@
+C:/Users/Fam Ayman/STM32CubeIDE/workspace_1.11.2/RTOS_Project2/CMSIS_V5/core_cm3.h:1638:22:__NVIC_SetPriority	16	static
+C:/Users/Fam Ayman/STM32CubeIDE/workspace_1.11.2/RTOS_Project2/CMSIS_V5/core_cm3.h:1832:26:SysTick_Config	16	static
+../MY_RTOS/CortexMX_OS_Porting.c:36:28:SVC_Handler	0	static,ignoring_inline_asm
+../MY_RTOS/CortexMX_OS_Porting.c:45:6:HW_init	8	static
+../MY_RTOS/CortexMX_OS_Porting.c:49:6:trigger_OS_PendSV	4	static
+../MY_RTOS/CortexMX_OS_Porting.c:54:6:Start_Ticker	8	static
+../MY_RTOS/CortexMX_OS_Porting.c:58:6:SysTick_Handler	8	static

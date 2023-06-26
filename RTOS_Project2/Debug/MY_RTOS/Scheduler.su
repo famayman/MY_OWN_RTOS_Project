@@ -1,0 +1,16 @@
+../MY_RTOS/Scheduler.c:36:6:MyRTOS_Create_TaskStack	24	static
+../MY_RTOS/Scheduler.c:75:6:bubbleSort	24	static
+../MY_RTOS/Scheduler.c:93:28:PendSV_Handler	0	static,ignoring_inline_asm
+../MY_RTOS/Scheduler.c:158:6:MYRTOS_Update_Schedule_Tables	24	static
+../MY_RTOS/Scheduler.c:200:6:Decide_What_Next	8	static
+../MY_RTOS/Scheduler.c:223:6:OS_SVC	24	static
+../MY_RTOS/Scheduler.c:251:6:MY_RTOS_IDLE_TASK	4	static,ignoring_inline_asm
+../MY_RTOS/Scheduler.c:259:6:MYRTOS_OS_SVC_Set	16	static,ignoring_inline_asm
+../MY_RTOS/Scheduler.c:275:16:MYRTOS_Create_Task	24	static
+../MY_RTOS/Scheduler.c:298:6:MYRTOS_Create_MainStack	4	static
+../MY_RTOS/Scheduler.c:306:16:MYRTOS_init	16	static
+../MY_RTOS/Scheduler.c:327:6:MYRTOS_ActivateTask	16	static
+../MY_RTOS/Scheduler.c:332:6:MYRTOS_TerminateTask	16	static
+../MY_RTOS/Scheduler.c:338:6:MYRTOS_Start_OS	8	static,ignoring_inline_asm
+../MY_RTOS/Scheduler.c:355:16:MYRTOS_AcquireMutex	16	static
+../MY_RTOS/Scheduler.c:377:6:MYRTOS_ReleaseMutex	16	static
